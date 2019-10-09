@@ -13,32 +13,32 @@
 
 ## Solcore 
 
-Website: http://www.solcore.solar/home
-GitHub: https://github.com/qpv-research-group/solcore5
-Issues: https://github.com/qpv-research-group/solcore5/issues
-Talk to: Diego
+* Website: http://www.solcore.solar/home
+* GitHub: https://github.com/qpv-research-group/solcore5
+* Issues: https://github.com/qpv-research-group/solcore5/issues
+* Talk to: Diego
 
 ## OpenAstronomy
 
-Website: https://openastronomy.org/
-GitHub: https://github.com/openastronomy
-Talk to: David
+* Website: https://openastronomy.org/
+* GitHub: https://github.com/openastronomy
+* Talk to: David
 
 ## Devito
 
-Website: https://www.devitoproject.org/
-GitHub: https://github.com/opesci/devito
-Issues: https://github.com/opesci/devito/issues
-Talk to: George
+* Website: https://www.devitoproject.org/
+* GitHub: https://github.com/opesci/devito
+* Issues: https://github.com/opesci/devito/issues
+* Talk to: George
 
 ## Orderly
 
-GitHub: https://github.com/vimc/orderly
-Issues: https://github.com/vimc/orderly/issues
-Talk to: John
+* GitHub: https://github.com/vimc/orderly
+* Issues: https://github.com/vimc/orderly/issues
+* Talk to: John
 
 ## Imperial Software Showcase
 
-Website: https://imperialcollegelondon.github.io/research-software-directory/
-GitHub: https://github.com/ImperialCollegeLondon/research-software-directory
-Talk to: Mark
+* Website: https://imperialcollegelondon.github.io/research-software-directory/
+* GitHub: https://github.com/ImperialCollegeLondon/research-software-directory
+* Talk to: Mark
