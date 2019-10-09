@@ -13,32 +13,32 @@
 
 ## Solcore 
 
-* Website: http://www.solcore.solar/home
-* GitHub: https://github.com/qpv-research-group/solcore5
-* Issues: https://github.com/qpv-research-group/solcore5/issues
+* Website: [http://www.solcore.solar/home](http://www.solcore.solar/home)
+* GitHub: [https://github.com/qpv-research-group/solcore5](https://github.com/qpv-research-group/solcore5)
+* Issues: [https://github.com/qpv-research-group/solcore5/issues](https://github.com/qpv-research-group/solcore5/issues)
 * Talk to: Diego
 
 ## OpenAstronomy
 
-* Website: https://openastronomy.org/
-* GitHub: https://github.com/openastronomy
+* Website: [https://openastronomy.org/](https://openastronomy.org/)
+* GitHub: [https://github.com/openastronomy](https://github.com/openastronomy)
 * Talk to: David
 
 ## Devito
 
-* Website: https://www.devitoproject.org/
-* GitHub: https://github.com/opesci/devito
-* Issues: https://github.com/opesci/devito/issues
+* Website: [https://www.devitoproject.org/](https://www.devitoproject.org/)
+* GitHub: [https://github.com/opesci/devito](https://github.com/opesci/devito)
+* Issues: [https://github.com/opesci/devito/issues](https://github.com/opesci/devito/issues)
 * Talk to: George
 
 ## Orderly
 
-* GitHub: https://github.com/vimc/orderly
-* Issues: https://github.com/vimc/orderly/issues
+* GitHub: [https://github.com/vimc/orderly](https://github.com/vimc/orderly)
+* Issues: [https://github.com/vimc/orderly/issues](https://github.com/vimc/orderly/issues)
 * Talk to: John
 
 ## Imperial Software Showcase
 
-* Website: https://imperialcollegelondon.github.io/research-software-directory/
-* GitHub: https://github.com/ImperialCollegeLondon/research-software-directory
+* Website: [https://imperialcollegelondon.github.io/research-software-directory/](https://imperialcollegelondon.github.io/research-software-directory/)
+* GitHub: [https://github.com/ImperialCollegeLondon/research-software-directory](https://github.com/ImperialCollegeLondon/research-software-directory)
 * Talk to: Mark
