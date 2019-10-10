@@ -9,6 +9,8 @@
 * 18:30 - Hacking updates - tell the group what you're working on
 * 20:00 - Close
 
+Let us know what you're working on via [Etherpad](https://etherpad.net/p/ImperialRSEHacktoberfest).
+
 # Projects
 
 ## Solcore 
