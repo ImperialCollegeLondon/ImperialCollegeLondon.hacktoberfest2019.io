@@ -15,7 +15,7 @@ Let us know what you're working on via [Etherpad](https://etherpad.net/p/Imperia
 
 ## Solcore 
 
-* Website: [http://www.solcore.solar/home](http://www.solcore.solar/home)
+* Website: [http://www.solcore.solar](http://www.solcore.solar)
 * GitHub: [https://github.com/qpv-research-group/solcore5](https://github.com/qpv-research-group/solcore5)
 * Issues: [https://github.com/qpv-research-group/solcore5/issues](https://github.com/qpv-research-group/solcore5/issues)
 * Talk to: Diego
